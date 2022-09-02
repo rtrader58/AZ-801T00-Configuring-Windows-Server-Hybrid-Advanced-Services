@@ -1,4 +1,4 @@
-# AZ-800T00 Configuring Windows Server  Hybrid Advanced Service - Module 3 Errata
+# AZ-801T00 Configuring Windows Server  Hybrid Advanced Service - Module 3 Errata
 
 ## Module 3 Lab:  Implementing Failover Clustering
 

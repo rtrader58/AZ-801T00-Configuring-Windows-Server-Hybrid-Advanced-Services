@@ -1,4 +1,4 @@
-# AZ-800T00 Configuring Windows Server  Hybrid Advanced Service - Module 2 Errata
+# AZ-801T00 Configuring Windows Server  Hybrid Advanced Service - Module 2 Errata
 
 ## Module 2 Implementing Security Solutions in a Hybrid Scenarios
 

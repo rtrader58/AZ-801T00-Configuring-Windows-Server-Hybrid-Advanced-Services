@@ -1,4 +1,4 @@
-# AZ-800T00 Configuring Windows Server  Hybrid Advanced Service - Module 7 Errata
+# AZ-801T00 Configuring Windows Server  Hybrid Advanced Service - Module 7 Errata
 
 ## Module 07 (CSS): Migrating Hyper-V VMs to Azure by using Azure Migrate
 

@@ -1,4 +1,4 @@
-# AZ-800T00 Configuring Windows Server  Hybrid Advanced Service - Module 6 Errata
+# AZ-801T00 Configuring Windows Server  Hybrid Advanced Service - Module 6 Errata
 
 ## Module 06 (CSS): Upgrade and migrate in Windows Server
 
