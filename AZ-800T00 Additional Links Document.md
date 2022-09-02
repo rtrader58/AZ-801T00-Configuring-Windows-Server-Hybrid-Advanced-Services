@@ -1,19 +1,19 @@
 # AZ-801T00 Additional Reference Links
 
 ## Module 0
-Lab Environment – https://interfacett.learnondemand.net <br>
-Replay - https://replay.interfacett.com <br>
 Interface Technical Training – https://interfacett.com <br>
+Replay - https://replay.interfacett.com <br>
+Lab Environment – https://interfacett.learnondemand.net <br>
 Exam discount - https://www.interfacett.com/microsoft-certification-exams/ <br>
 Exam objectives - https://docs.microsoft.com/en-us/learn/certifications/exams/az-801 <br>
 Exam objectives – Microsoft Certified : Windows Server Hybrid Administrator Associate - https://docs.microsoft.com/en-us/learn/certifications/windows-server-hybrid-administrator/<br>
 AZ-801 Study Guide - https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWKPgH<br>
-https://docs.microsoft.com/en-us/windows-server/ <br>
-https://docs.microsoft.com/en-us/azure/  <br>
-https://social.msdn.microsoft.com/Forums/enUS/home?category=windowsazureplatform <br>
-https://channel9.msdn.com/ <br>
-https://azure.microsoft.com/en-us/blog <br>
-https://www.microsoft.com/en-us/learning/community-blog.aspx <br>
+Windows Server Documentation - https://docs.microsoft.com/en-us/windows-server/ <br>
+Azure Documentation - https://docs.microsoft.com/en-us/azure/  <br>
+Azure Platform Forum - https://social.msdn.microsoft.com/Forums/enUS/home?category=windowsazureplatform <br>
+Channel 9 - https://channel9.msdn.com/ <br>
+Microsoft Azure Blog - https://azure.microsoft.com/en-us/blog <br>
+Microsoft Learn Blog - https://www.microsoft.com/en-us/learning/community-blog.aspx <br>
 ## Module 1
 https://docs.microsoft.com/windows-server/identity/ad-ds/plan/security-best-practices/appendix-c--protected-accounts-and-groups-in-active-directory <br>
 https://docs.microsoft.com/windows-server/identity/ad-ds/manage/how-to-configure-protected-accounts <br>
