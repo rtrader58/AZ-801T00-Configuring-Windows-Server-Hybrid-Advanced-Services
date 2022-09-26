@@ -1,5 +1,10 @@
 # AZ-801T00 Configuring Windows Server  Hybrid Advanced Service - Module 9 Errata
- 
+ <br>
+
+If you run into issues pasting into the lab from the instructions - paste into notepad on the VM then into PowerShell<br>
+
+<br>
+
 ## Module 09 (CSS): Implementing operational monitoring in hybrid scenarios
 ## Note:  Throughout the lab the copy and paste shortcut in the lab may not work if you see ^V you will need to copy and paste manually
 

@@ -38,7 +38,7 @@ Step 7: After choosing your Log Analytics Workspace select Exiting and new VMs<b
 <br>
 
 Task 2: Deploy an Azure VM by using an Azure Resource Manager template<br>
-Step 3: Copy and Paste each sign separately<br>
+Step 3: Copy and Paste each CMDLET separately<br>
 
 <br>
 
