@@ -4,4 +4,4 @@
 
 <br>
 
-## No errata
+If you run into issues pasting into the lab from the instructions - paste into notepad on the VM then into PowerShell<br>
