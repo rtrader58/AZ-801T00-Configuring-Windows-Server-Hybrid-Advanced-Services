@@ -60,3 +60,22 @@ Module 3: Migrate Windows Server roles - https://learn.microsoft.com/en-us/train
 Module 1: Migrate on-premises Windows Server instances to Azure IaaS virtual machines https://learn.microsoft.com/en-us/training/modules/migrate-premises-windows-server-instances-azure-iaas-virtual-machines/ <br>
 Module 2: Upgrade and migrate Windows Server IaaS virtual machines - https://learn.microsoft.com/en-us/training/modules/upgrade-migrate-windows-server-iaas-virtual-machines/ <br>
 Module 3: Containerize and migrate ASP.NET applications to Azure App Service - https://learn.microsoft.com/en-us/training/modules/migrate-aspnet-app-azure-app-service/ <br>
+
+## Learning Path 5:  Monitor and troubleshoot Windows Server environments (Server and performance monitoring in Windows Server)
+
+### PowerPoint Module 8 - Monitor and troubleshoot Windows Server environment​ (Server and performance monitoring in Windows Server)​
+
+Module 1: Monitor Windows Server performance - https://learn.microsoft.com/en-us/training/modules/monitor-windows-server-performance/ <br>
+Module 2: Manage and monitor Windows Server event logs - https://learn.microsoft.com/en-us/training/modules/manage-monitor-event-logs/ <br>
+Module 3: Implement Windows Server auditing and diagnostics - https://learn.microsoft.com/en-us/training/modules/implement-windows-server-auditing-diagnostics/ <br>
+Module 4: Troubleshoot Active Directory - vhttps://learn.microsoft.com/en-us/training/modules/troubleshoot-active-directory/ <br>
+
+## Learning Path 5:  Monitor and troubleshoot Windows Server environments (Implementing operational monitoring in hybrid scenarios)
+
+### PowerPoint Module 9 - Monitor and troubleshoot Windows Server environment​  (Implementing operational monitoring in hybrid scenarios)​
+
+Module 1: Monitor Windows Server IaaS Virtual Machines and hybrid instances - https://learn.microsoft.com/en-us/training/modules/monitor-windows-server-iaas-virtual-machines-hybrid-instances/ <br>
+Module 2: Monitor the health of your Azure virtual machine by using Azure Metrics Explorer and metric alerts - https://learn.microsoft.com/en-us/training/modules/monitor-azure-vm-using-diagnostic-data/ <br> <br>
+Module 3: Monitor performance of virtual machines by using Azure Monitor VM Insights - https://learn.microsoft.com/en-us/training/modules/monitor-performance-using-azure-monitor-for-vms/
+Module 4: Troubleshoot on-premises and hybrid networking - https://learn.microsoft.com/en-us/training/modules/troubleshoot-premises-hybrid-networking/ <br>
+Module 5: Troubleshoot Windows Server Virtual Machines in Azure - https://learn.microsoft.com/en-us/training/modules/troubleshoot-windows-server-virtual-machines-azure/ <br>
