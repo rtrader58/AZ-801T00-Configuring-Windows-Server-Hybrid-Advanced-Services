@@ -47,7 +47,7 @@ Module 3: Protect your virtual machines by using Azure Backup = https://learn.mi
 
 ## Learning Path 4:  Migrate servers and workloads in on-premises and hybrid environments (Upgrade and migrate in Windoews Server)
 
-### PowerPoi8nt Module 6 - Migrate servers and workloads in on-premises and hybrid environments​ ​(Upgrade and migrate in Windows Server)​
+### PowerPoint Module 6 - Migrate servers and workloads in on-premises and hybrid environments​ ​(Upgrade and migrate in Windows Server)​
 
 Module 1: Active Directory Domain Services migration - https://learn.microsoft.com/en-us/training/modules/active-directory-domain-services-migration/ <br>
 Module 2: Migrate file server workloads using Storage Migration Service - https://learn.microsoft.com/en-us/training/modules/migrate-file-server-workloads-using-storage-migration-service/ <br>
