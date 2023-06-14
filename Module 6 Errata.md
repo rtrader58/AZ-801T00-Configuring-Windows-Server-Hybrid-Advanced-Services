@@ -1,17 +1,10 @@
 # AZ-801T00 Configuring Windows Server  Hybrid Advanced Service - Module 6 Errata
-<br>
 
 If you run into issues pasting into the lab from the instructions - paste into notepad on the VM then into PowerShell<br>
 
-<br>
-
 ## Module 06 (CSS): Upgrade and migrate in Windows Server
 
-<br>
-
 ### Exercise 1: Deploying AD DS domain controllers in Azure
-
-<br>
 
 Task 2: Deploy Azure Bastion<br>
 Step 3: Copy and paste the commands manually<br>
