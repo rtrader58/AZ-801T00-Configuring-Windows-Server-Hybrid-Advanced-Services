@@ -2,49 +2,29 @@
 
 # Module 1 Configuring security in Windows Server
 
-<br>
-
 If you run into issues pasting into the lab from the instructions - paste into notepad on the VM then into PowerShell<br>
-
-<br>
 
 ## Module 2 Implementing Security Solutions in a Hybrid Scenarios
 
-<br>
-
 ### Exercise 1: Creating an Azure Log Analytics workspace and an Azure Automation account
-
-<br>
 
 Task 1: Create an Azure Log Analytics workspace<br>
 Step 4: Choose East US for the Region<br>
 Task 2: Create and configure an Azure Automation account<br>
 Step 2: Choose East US 2 for the Region<br>
 
-<br>
-
 ### Exercise 2: Configuring Microsoft Defender for Cloud
-
-<br>
 
 Task 2: Enable enhanced security of Defender for Cloud<br>
 Step 6: If Log Analytics for Azure VMs is Off use the slide bar to turn it On<br>
 Step 7: After choosing your Log Analytics Workspace select Exiting and new VMs<br>
 
-<br>
-
 ### Exercise 3: Provisioning Azure VMs running Windows Server
-
-<br>
 
 Task 2: Deploy an Azure VM by using an Azure Resource Manager template<br>
 Step 3: Copy and Paste each CMDLET separately<br>
 
-<br>
-
 ### Exercise 4: Onboarding on-premises Windows Server into Microsoft Defender for Cloud and Azure Automation
-
-<br>
 
 Task 1: Perform manual installation of the Log Analytics agent<br>
 Step 5: Copy the Workspace ID and Primary Key and paste them into notepadV
@@ -54,11 +34,7 @@ Task 2: Perform unattended installation of the Log Analytics agent<br>
 Step 2: Copy and paste each command separately and press enter after pasting each
 It may take up to 5 minutes before the threat is detected <br>
 
-<br>
-
 ### Exercise 5: Verifying the hybrid capabilities of Microsoft Defender for Cloud and Azure Automation solutions
-
-<br>
 
 Task 2: Validate the threat detection capabilities for on-premises servers<br>
 It may take up to 5-10 minutes before the threat is detected<br> 
@@ -66,33 +42,19 @@ It may take up to 5-10 minutes before the threat is detected<br>
 Task 4: Validate Azure Automation solutions<br>
 Step 7: On prem servers may not be listed, it took ~45 minutes for them to populate<br>
  
-<br>
-
 ## Module 3 Lab:  Implementing Failover Clustering
-
-<br>
 
 After downloading the lab files logon to SEA-SVR2 and restart the server<br>
 While SEA-SVR2 is restarting logon to SEA-SVR1 and restart. Using PowerShell type restart-computer -force<br>
 
-<br>
-
 ### Exercise 1: Configuring iSCSI storage
-
-<br>
 
 All the PowerShell commands need to copied and ran 1 at a time, do not paste multiple commands at a time.<br>
 Example Exercise 1 > Task 1 > Step 3<br>
 
-<br>
-
 ### In Task 1, 2 and 3 you will have 3 PowerShell windows open.  One connected to SEA-SVR2, one to SEA-DC1 and one to SEA-SVR1.  When running the commands make sure you are in the correct PowerShell window
 
-<br>
-
 ### Exercise 2: Configuring a failover cluster
-
-<br>
 
 Task 1: Connect clients to the iSCSI targets<br>
 Replace Step 1 with the following<br>
@@ -107,37 +69,24 @@ New-Partition -DiskNumber 1 -Size 5gb -AssignDriveLetter Change the disk number 
 New-Partition -DiskNumber 2 -Size 5gb -AssignDriveLetter Change the disk number from 2 to 3<br>
 New-Partition -DiskNumber 3 -Size 5gb -AssignDriveLetter Change the disk number from 3 to 4<br>
 
-<br>
- 
 ## Module 04: Implementing Hyper-V Replica and Windows Server Backup
 
-<br>
-
 ### Exercise1: Implementing Hyper-V Replica
-
-<br>
 
 Task 3: Validate a failover<br>
 Step 6: You are not able to start the VM while it is replicating.  Move on to Exercise 2: Implementing backup and restore with Windows Server Backup – after completing come back and finish exercise 1 (My VM was still replicating – as long as you understand the concept you can end the lab if still replicating)
  
-<br>
-
 ## Module 05 (CSS): Implementing Azure-based recovery services
 
 <br>
 
 ### Exercise 1: Creating and configuring an Azure Site Recovery vault
 
-<br>
-
 Task 1: Create an Azure Site Recovery vault<br>
 Step 4: Use East US for the Region<br>
 
-<br>
-
 ### Exercise 2: Implementing Hyper-V VM protection by using Azure Site Recovery vault
 
-<br>
 Task 2: Prepare protection of a Hyper-V virtual machine<br>
 Step 2: Select Enable Site Recover<br>
 
@@ -149,11 +98,7 @@ Task 5: Perform a failover of the Hyper-V virtual machine<br>
 Step 3: Took ~4 minutes<br>
 Step 5: Cleanup test failover is located on the top bar next to Test Failover<br>
 
-<br>
-
 ### Exercise 4: Deprovisioning the Azure lab environment
-
-<br>
 
 Task 1: Remove the protected items<br>
 Step 2 click on the sea-svr1 name to get to the next page.  You will have to use the scroll bar to scroll to the right at the bottom of the blade<br>
@@ -161,15 +106,9 @@ Step 2 click on the sea-svr1 name to get to the next page.  You will have to use
 Task 2: Delete the lab resource groups<br>
 Manually copy and paste the commands<br>
  
-<br>
-
 ## Module 06 (CSS): Upgrade and migrate in Windows Server
 
-<br>
-
 ### Exercise 1: Deploying AD DS domain controllers in Azure
-
-<br>
 
 Task 2: Deploy Azure Bastion<br>
 Step 3: Copy and paste the commands manually<br>
@@ -178,15 +117,9 @@ Task 4: Manually promote a domain controller in an Azure VM<br>
 Copy and Paste may not work while connected to az80106a-dc2, you may have to accomplish the steps manually<br>
 Step 15: You may have to refresh Server Manager<br>
 
-<br>
-
 ## Module 07 (CSS): Migrating Hyper-V VMs to Azure by using Azure Migrate
 
-<br>
-
 ### Exercise 1: Prepare the lab environment
-
-<br>
 
 Task 2: Deploy Azure Bastion<br>
 Step 3: Copy and Paste does not work.  Will have to copy and paste manually.  You can copy all the lines at one time and paste at 1 time.  Hit enter with the last line appears<br>
@@ -197,22 +130,13 @@ Accept the default when Edge launches to get past the welcome screens.<br>
 Step 6:  The .VHD will download into the downloads folder.  Move it to f:\VHDs folder<br>
 Step 23: Command must be typed in manually<br>
 
-<br>
-
 ### Exercise 2: Prepare for assessment and migration by using Azure Migrate
-
-
-<br>
 
 Task 1: Configure Hyper-V environment<br>
 Step 3: Copy and paste in the upper pane of the PowerShell ISE, then click run<br>
 Step 4: N is only selected for the 2 prompts when asked that are identified in the lab instructions, all others are Y<br>
 
-<br>
-
 ### Exercise 3: Assess Hyper-V for migration by using Azure Migrate
-
-<br>
 
 Task 1: Deploy and configure the Azure Migrate appliance<br>
 Before starting the Task open Notepad in the RDP session copy and paste your Azure tenant credentials<br>
@@ -226,24 +150,14 @@ If after step 29: Start Discovery is not available, ensure the slider under step
 Task 2: Configure, run, and view an assessment<br>
 Step 2: Assessment settings not properties<br>
 
-<br>
-
 ## Module 08: Monitoring and troubleshooting Windows Server
-
-<br>
 
 ### No Errata
 
-<br>
- 
 ## Module 09 (CSS): Implementing operational monitoring in hybrid scenarios
 ## Note:  Throughout the lab the copy and paste shortcut in the lab may not work if you see ^V you will need to copy and paste manually
 
-<br>
-
 ### Exercise 1: Preparing a monitoring environment
-
-<br>
 
 Task 1: Deploy an Azure virtual machine<br>
 Step 7: Paste each line individually manually – replace ‘<Azure_Region>’ with ‘eastus’<br>
@@ -258,11 +172,7 @@ Task 2: Integrate an on-premises Windows Server with Azure Monitor<br>
 Step 3: Click Set up<br>
 Step 4: Use existing Resources Group<br>
 
-<br>
-
 ### Exercise 3: Configuring monitoring of Azure VMs
-
-<br>
 
 Task 2: Configure diagnostic settings and VM Insights<br>
 Skip step 4 as guest log diagnostic are already enabled<br>
@@ -270,11 +180,7 @@ Step 13: Enable Identity Management and click save.  Browse back to the VM diagn
 Step 21 and 22:  If Try now is not available, they are already enabled<br>
 Step 23, in the Monitor | Virtual Machines page click on Workspace configuration in the middle of the screen<br>
 
-<br>
-
 ### Exercise 4: Evaluating monitoring services
-
-<br>
 
 Task 1: Review Azure Monitor monitoring and alerting functionality<br>
 Step 5: Click on New Alert Rule<br>
