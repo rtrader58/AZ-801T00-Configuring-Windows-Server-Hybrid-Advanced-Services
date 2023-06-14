@@ -1,17 +1,10 @@
 # AZ-801T00 Configuring Windows Server  Hybrid Advanced Service - Module 7 Errata
-<br>
 
 If you run into issues pasting into the lab from the instructions - paste into notepad on the VM then into PowerShell<br>
 
-<br>
-
 ## Module 07 (CSS): Migrating Hyper-V VMs to Azure by using Azure Migrate
 
-<br>
-
 ### Exercise 1: Prepare the lab environment
-
-<br>
 
 Task 2: Deploy Azure Bastion<br>
 Step 3: Copy and Paste does not work.  Will have to copy and paste manually.  You can copy all the lines at one time and paste at 1 time.  Hit enter with the last line appears<br>
@@ -22,22 +15,13 @@ Accept the default when Edge launches to get past the welcome screens.<br>
 Step 6:  The .VHD will download into the downloads folder.  Move it to f:\VHDs folder<br>
 Step 23: Command must be typed in manually<br>
 
-<br>
-
 ### Exercise 2: Prepare for assessment and migration by using Azure Migrate
-
-
-<br>
 
 Task 1: Configure Hyper-V environment<br>
 Step 3: Copy and paste in the upper pane of the PowerShell ISE, then click run<br>
 Step 4: N is only selected for the 2 prompts when asked that are identified in the lab instructions, all others are Y<br>
 
-<br>
-
 ### Exercise 3: Assess Hyper-V for migration by using Azure Migrate
-
-<br>
 
 Task 1: Deploy and configure the Azure Migrate appliance<br>
 Before starting the Task open Notepad in the RDP session copy and paste your Azure tenant credentials<br>
@@ -50,5 +34,3 @@ If after step 29: Start Discovery is not available, ensure the slider under step
 
 Task 2: Configure, run, and view an assessment<br>
 Step 2: Assessment settings not properties<br>
-
-<br>
