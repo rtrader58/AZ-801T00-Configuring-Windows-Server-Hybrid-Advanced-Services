@@ -1,36 +1,20 @@
 # AZ-801T00 Configuring Windows Server  Hybrid Advanced Service - Module 3 Errata
 
-<br>
-
 If you run into issues pasting into the lab from the instructions - paste into notepad on the VM then into PowerShell<br>
 
-<br>
-
 ## Module 3 Lab:  Implementing Failover Clustering
-
-<br>
 
 After downloading the lab files logon to SEA-SVR2 and restart the server<br>
 While SEA-SVR2 is restarting logon to SEA-SVR1 and restart. Using PowerShell type restart-computer -force<br>
 
-<br>
-
 ### Exercise 1: Configuring iSCSI storage
-
-<br>
 
 All the PowerShell commands need to copied and ran 1 at a time, do not paste multiple commands at a time.<br>
 Example Exercise 1 > Task 1 > Step 3<br>
 
-<br>
-
 ### In Task 1, 2 and 3 you will have 3 PowerShell windows open.  One connected to SEA-SVR2, one to SEA-DC1 and one to SEA-SVR1.  When running the commands make sure you are in the correct PowerShell window
 
-<br>
-
 ### Exercise 2: Configuring a failover cluster
-
-<br>
 
 Task 1: Connect clients to the iSCSI targets<br>
 Replace Step 1 with the following<br>
