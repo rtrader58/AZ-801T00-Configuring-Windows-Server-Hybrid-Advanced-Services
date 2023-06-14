@@ -1,18 +1,11 @@
 # AZ-801T00 Configuring Windows Server  Hybrid Advanced Service - Module 9 Errata
- <br>
 
 If you run into issues pasting into the lab from the instructions - paste into notepad on the VM then into PowerShell<br>
-
-<br>
 
 ## Module 09 (CSS): Implementing operational monitoring in hybrid scenarios
 ## Note:  Throughout the lab the copy and paste shortcut in the lab may not work if you see ^V you will need to copy and paste manually
 
-<br>
-
 ### Exercise 1: Preparing a monitoring environment
-
-<br>
 
 Task 1: Deploy an Azure virtual machine<br>
 Step 7: Paste each line individually manually – replace ‘<Azure_Region>’ with ‘eastus’<br>
@@ -27,11 +20,7 @@ Task 2: Integrate an on-premises Windows Server with Azure Monitor<br>
 Step 3: Click Set up<br>
 Step 4: Use existing Resources Group<br>
 
-<br>
-
 ### Exercise 3: Configuring monitoring of Azure VMs
-
-<br>
 
 Task 2: Configure diagnostic settings and VM Insights<br>
 Skip step 4 as guest log diagnostic are already enabled<br>
@@ -39,11 +28,7 @@ Step 13: Enable Identity Management and click save.  Browse back to the VM diagn
 Step 21 and 22:  If Try now is not available, they are already enabled<br>
 Step 23, in the Monitor | Virtual Machines page click on Workspace configuration in the middle of the screen<br>
 
-<br>
-
 ### Exercise 4: Evaluating monitoring services
-
-<br>
 
 Task 1: Review Azure Monitor monitoring and alerting functionality<br>
 Step 5: Click on New Alert Rule<br>
