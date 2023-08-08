@@ -119,7 +119,10 @@ Manually copy and paste the commands<br>
 ### Exercise 1: Deploying AD DS domain controllers in Azure
 
 Task 2: Deploy Azure Bastion<br>
-Step 3: Copy and paste the commands manually<br>
+Step 5 - 7 <br>
+
+In the Azure Portal, navigate to Virtual networks > az801l06a-vnet > Settings > Bastion <br>
+Click Deploy Bastion <br>
 
 Task 4: Manually promote a domain controller in an Azure VM<br>
 Copy and Paste may not work while connected to az80106a-dc2, you may have to accomplish the steps manually<br>
@@ -130,8 +133,10 @@ Step 15: You may have to refresh Server Manager<br>
 ### Exercise 1: Prepare the lab environment
 
 Task 2: Deploy Azure Bastion<br>
-Step 3: Copy and Paste does not work.  Will have to copy and paste manually.  You can copy all the lines at one time and paste at 1 time.  Hit enter with the last line appears<br>
+Step 5 - 7 <br>
 
+In the Azure Portal, navigate to Virtual networks > az801l07a-hv-vnet > Settings > Bastion <br>
+Click Deploy Bastion <br>
 Task 3: Deploy a nested VM in the Azure VM<br>
 Do not even bother trying to connect with the Bastion, do the work around listed at the beginning of the lab.  Make sure you launch Bash not PowerShell and the commands have to be manually pasted.  Copy and paste and execute each group all at once<br>
 Accept the default when Edge launches to get past the welcome screens.<br>
