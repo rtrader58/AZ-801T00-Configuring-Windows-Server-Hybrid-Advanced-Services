@@ -1,6 +1,8 @@
 # AZ-801T00 Configuring Windows Server Hybrid Advanced Service - Errata All Modules
 
-#  In all labs, if you run into issues pasting into the lab from the instructions - open PowerShell ISE and paste into PowerShell ISE instead of the PowerShell Prompt
+### If you run into issues pasting into the lab from the instructions - open PowerShell ISE paste into PowerShell ISE<br>
+### If using PowerShell run the command in PowerShell ISE <br>
+### If using the Azure Cloud Shell copy from the PowerShell ISE into the Cloud Shell <br>
 
 ## Module 1 Configuring security in Windows Server
 
