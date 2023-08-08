@@ -45,7 +45,7 @@ Module 1: Implement hybrid backup and recovery with Windows Server IaaS - https:
 Module 2: Protect your Azure infrastructure with Azure Site Recovery - https://learn.microsoft.com/en-us/training/modules/protect-infrastructure-with-site-recovery/ <br>
 Module 3: Protect your virtual machines by using Azure Backup = https://learn.microsoft.com/en-us/training/modules/protect-virtual-machines-with-azure-backup/ <br>
 
-## Learning Path 4:  Migrate servers and workloads in on-premises and hybrid environments (Upgrade and migrate in Windoews Server)
+## Learning Path 4:  Migrate servers and workloads in on-premises and hybrid environments (Upgrade and migrate in Windows Server)
 
 ### PowerPoint Module 6 - Migrate servers and workloads in on-premises and hybrid environments​ ​(Upgrade and migrate in Windows Server)​
 
