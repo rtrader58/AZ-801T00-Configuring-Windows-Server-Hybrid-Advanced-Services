@@ -17,3 +17,10 @@ Click Deploy Bastion <br>
 Task 4: Manually promote a domain controller in an Azure VM<br>
 Copy and Paste may not work while connected to az80106a-dc2, you may have to accomplish the steps manually<br>
 Step 15: You may have to refresh Server Manager<br>
+
+### Exercise 2: Migrating file servers by using Storage Migration Service
+
+Skip Task 1 as the Windows Admin Center is already installed<br>
+
+Task 2: Set up file services <br>
+Step 2:  The path should read C:\Allfiles\Labfiles\Lab06 <br>
