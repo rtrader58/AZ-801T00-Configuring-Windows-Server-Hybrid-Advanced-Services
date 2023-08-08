@@ -9,7 +9,10 @@ If using the Azure Cloud Shell copy from the PowerShell ISE into the Cloud Shell
 ### Exercise 1: Prepare the lab environment
 
 Task 2: Deploy Azure Bastion<br>
-Step 3: Copy and Paste does not work.  Will have to copy and paste manually.  You can copy all the lines at one time and paste at 1 time.  Hit enter with the last line appears<br>
+Step 5 - 7 <br>
+
+In the Azure Portal, navigate to Virtual networks > az801l07a-hv-vnet > Settings > Bastion <br>
+Click Deploy Bastion <br>
 
 Task 3: Deploy a nested VM in the Azure VM<br>
 Do not even bother trying to connect with the Bastion, do the work around listed at the beginning of the lab.  Make sure you launch Bash not PowerShell and the commands have to be manually pasted.  Copy and paste and execute each group all at once<br>
