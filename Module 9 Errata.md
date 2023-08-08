@@ -1,15 +1,20 @@
 # AZ-801T00 Configuring Windows Server  Hybrid Advanced Service - Module 9 Errata
 
-If you run into issues pasting into the lab from the instructions - paste into notepad on the VM then into PowerShell<br>
+If you run into issues pasting into the lab from the instructions - open PowerShell ISE paste into PowerShell ISE<br>
+If using PowerShell run the command in PowerShell ISE <br>
+If using the Azure Cloud Shell copy from the PowerShell ISE into the Cloud Shell <br>
+
+## Note:  Throughout the lab the copy and paste shortcut in the lab may not work if you see ^V you will need to copy and paste manually
 
 ## Module 09 (CSS): Implementing operational monitoring in hybrid scenarios
-## Note:  Throughout the lab the copy and paste shortcut in the lab may not work if you see ^V you will need to copy and paste manually
+
 
 ### Exercise 1: Preparing a monitoring environment
 
 Task 1: Deploy an Azure virtual machine<br>
 Step 7: Paste each line individually manually – replace ‘<Azure_Region>’ with ‘eastus’<br>
-Exercise 2: Configuring monitoring of on-premises servers<br>
+
+### Exercise 2: Configuring monitoring of on-premises servers<br>
 
 Task 1: Register Windows Admin Center with Azure<br>
 NOTE:  The Windows Admin Center is preinstalled – skip to step 4<br>
