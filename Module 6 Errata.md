@@ -1,13 +1,18 @@
 # AZ-801T00 Configuring Windows Server  Hybrid Advanced Service - Module 6 Errata
 
-If you run into issues pasting into the lab from the instructions - paste into notepad on the VM then into PowerShell<br>
+If you run into issues pasting into the lab from the instructions - open PowerShell ISE paste into PowerShell ISE<br>
+If using PowerShell run the command in PowerShell ISE <br>
+If using the Azure Cloud Shell copy from the PowerShell ISE into the Cloud Shell <br>
 
 ## Module 06 (CSS): Upgrade and migrate in Windows Server
 
 ### Exercise 1: Deploying AD DS domain controllers in Azure
 
 Task 2: Deploy Azure Bastion<br>
-Step 3: Copy and paste the commands manually<br>
+Step 5 - 7 <br>
+
+In the Azure Portal, navigate to Virtual networks > az801l06a-vnet > Settings > Bastion <br>
+Click Deploy Bastion <br>
 
 Task 4: Manually promote a domain controller in an Azure VM<br>
 Copy and Paste may not work while connected to az80106a-dc2, you may have to accomplish the steps manually<br>
