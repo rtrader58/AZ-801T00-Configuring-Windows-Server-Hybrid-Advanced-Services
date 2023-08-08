@@ -1,6 +1,8 @@
 # AZ-801T00 Configuring Windows Server  Hybrid Advanced Service - Module 4 Errata
 
-If you run into issues pasting into the lab from the instructions - paste into notepad on the VM then into PowerShell<br>
+If you run into issues pasting into the lab from the instructions - open PowerShell ISE paste into PowerShell ISE<br>
+If using PowerShell run the command in PowerShell ISE <br>
+If using the Azure Cloud Shell copy from the PowerShell ISE into the Cloud Shell <br>
 
 ## Module 04: Implementing Hyper-V Replica and Windows Server Backup
 
