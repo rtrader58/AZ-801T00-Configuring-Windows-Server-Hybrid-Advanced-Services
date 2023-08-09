@@ -8,6 +8,9 @@ If using the Azure Cloud Shell copy from the PowerShell ISE into the Cloud Shell
 
 ### Exercise 1: Deploying AD DS domain controllers in Azure
 
+Task 1: Deploy a domain controller by using an Azure Resource Manager (ARM) template <br>
+Step 12:  The path should read C:\Allfiles\Labfiles\Lab06 <br>
+
 Task 2: Deploy Azure Bastion<br>
 Step 5 - 7 <br>
 
