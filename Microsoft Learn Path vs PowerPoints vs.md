@@ -22,12 +22,6 @@ Module 11: Implement change tracking and file integrity monitoring for Windows I
 
 ## Learning Path 2: Implement Windows Server high availability
 
-Module 1: Introduction to Cluster Shared Volumes - https://learn.microsoft.com/en-us/training/modules/introduction-to-cluster-shared-volumes/<br>
-Module 2: Implement Windows Server failover clustering - https://learn.microsoft.com/en-us/training/modules/implement-windows-server-failover-cluster/ <br>
-Module 3: Implement high availability of Windows Server VMs - https://learn.microsoft.com/en-us/training/modules/implement-high-availability-of-windows-server-vms/ <br>
-Module 4: Implement Windows Server File Server high availability - https://learn.microsoft.com/en-us/training/modules/implement-windows-server-file-server-high-availability/ <br>
-Module 5: Implement scale and high availability with Windows Server VM - https://learn.microsoft.com/en-us/training/modules/implement-scale-high-availability-windows-server-virtual-machine/ <br>
-
 ### PowerPoint Module 3 - Windows Server high availability​
 
 Module 1: Introduction to Cluster Shared Volumes - https://learn.microsoft.com/en-us/training/modules/introduction-to-cluster-shared-volumes/ <br>
@@ -45,7 +39,7 @@ Module 7: Protect your on-premises infrastructure from disasters with Azure Site
 
 ## Learning Path 3:  Implement disaster recovery in Windows Server on-premises and hybrid environments (Implementing recovery services in hybrid scenarios)
 
-### PowerPoint Module 5 - mplement disaster recovery in Windows Server on-premises and hybrid environments​ (Implementing disaster recovery services in hybrid scenarios)​
+### PowerPoint Module 5 - Implement disaster recovery in Windows Server on-premises and hybrid environments​ (Implementing disaster recovery services in hybrid scenarios)​
 
 Module 1: Implement hybrid backup and recovery with Windows Server IaaS - https://learn.microsoft.com/en-us/training/modules/implement-hybrid-backup-recovery-windows-server-iaas/ <br>
 Module 2: Protect your Azure infrastructure with Azure Site Recovery - https://learn.microsoft.com/en-us/training/modules/protect-infrastructure-with-site-recovery/ <br>
