@@ -1,5 +1,7 @@
 # AZ-801T00 Configuring Windows Server  Hybrid Advanced Service - Module 5 Errata
 
+## Keep an eye on the lab timer
+
 If you run into issues pasting into the lab from the instructions - open PowerShell ISE paste into PowerShell ISE<br>
 If using PowerShell run the command in PowerShell ISE <br>
 If using the Azure Cloud Shell copy from the PowerShell ISE into the Cloud Shell <br>
@@ -23,9 +25,9 @@ Step 8:  Open the Group Policy Management console under Administrative Tools<br>
 Step 11: Open Powershell ISE
 Step 23: If unable to resolve to connect click try again<br>
 
-Task 4: Review Azure VM replication settings<br>
-Step 2: Before proceeding to Step 3 wait for the Status to change to Synchronizing – took ~13 minutes then started synchronizing – then waiting for first recovery.  Once synchronization starts you can move to step 3<br>
-Do not continue past Step 4 until Status changes to protected ~25 minutes from starting replication to getting Protected<br>
+Task 4: Review Azure VM replication settings<br>  
+Step 2: Before proceeding to Step 3 wait for the Status to change to Synchronizing – took ~20 minutes then started synchronizing – then waiting for first recovery.  Once synchronization starts you can move to step 3<br>
+Do not continue past Step 4 until Status changes to protected ~30 minutes from starting replication to getting Protected<br>
 
 Task 5: Perform a failover of the Hyper-V virtual machine<br>
 Step 3: Took ~4 minutes<br>
