@@ -13,8 +13,15 @@ Step 4: Use East US for the Region<br>
 
 ### Exercise 2: Implementing Hyper-V VM protection by using Azure Site Recovery vault
 
+Task 1: Implement an Azure recovery site<br>
+Step 3: Click Delete address space<br>
+Step 11: Click Delete address space<br>
+
 Task 2: Prepare protection of a Hyper-V virtual machine<br>
 Step 2: Select Enable Site Recover<br>
+Step 8:  Open the Group Policy Management console under Administrative Tools<br>
+Step 11: Open Powershell ISE
+Step 23: If unable to resolve to connect click try again<br>
 
 Task 4: Review Azure VM replication settings<br>
 Step 2: Before proceeding to Step 3 wait for the Status to change to Synchronizing – took ~13 minutes then started synchronizing – then waiting for first recovery.  Once synchronization starts you can move to step 3<br>
