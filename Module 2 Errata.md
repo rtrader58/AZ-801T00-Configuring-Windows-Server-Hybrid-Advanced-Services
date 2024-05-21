@@ -18,6 +18,7 @@ Step 2: Choose East US 2 for the Region<br>
 Task 2: Enable enhanced security of Defender for Cloud<br>
 Step 6: If Log Analytics for Azure VMs is Off use the slide bar to turn it On<br>
 Step 7: After choosing your Log Analytics Workspace select Exiting and new VMs<br>
+Skip Steps 16 and 17 they are no longer options in the Azure Portal <br>
 
 ### Exercise 3: Provisioning Azure VMs running Windows Server
 
