@@ -26,13 +26,16 @@ Task 1: Start Azure Cloud Shell<br>
 Step 2: on the Getting Started window select your subscription in the dropdown box  Click Apply<br>
 
 Task 2: Deploy an Azure VM by using an Azure Resource Manager template<br>
-Step 3: Copy and Paste each cmdlet separately<br>
+Step 3: Paste each cmdlet into Notepad or the PowerShell ISE, in the first line replace '<azure_region>' with 'eastus' - then copy and paste from Notepad or the PowerShell ISE <br>
 
 ### Exercise 4: Onboarding on-premises Windows Server into Microsoft Defender for Cloud and Azure Automation
 
 Task 1: Perform manual installation of the Log Analytics agent<br>
 Step 5: Copy the Workspace ID and Primary Key and paste them into notepad<br>
 Step 12:  If you did not close the Agent management blade in the Azure Portal you can copy and paste from the portal.  If you closed the blade copy and paste from notepad.  Must use Ctrl + V to paste<br>
+
+Task 2: Perform unattended installation of the Log Analytics agent
+Step 4:  Paste cmdlet into Notepad or the PowerShell ISE, in the replace "<WorkspaceID>" with "WorkspaceID copied in previous ste" and "<PrimaryKey>" with "PrimaryKey copied in previous ste" - then copy and paste from Notepad or the PowerShell ISE 
 
 Task 2: Perform unattended installation of the Log Analytics agent<br>
 Step 2: Copy and paste each command separately and press enter after pasting each, It may take up to 5 minutes before the threat is detected <br>
