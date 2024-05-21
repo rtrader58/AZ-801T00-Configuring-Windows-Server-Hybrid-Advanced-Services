@@ -35,7 +35,7 @@ Step 5: Copy the Workspace ID and Primary Key and paste them into notepad<br>
 Step 12:  If you did not close the Agent management blade in the Azure Portal you can copy and paste from the portal.  If you closed the blade copy and paste from notepad.  Must use Ctrl + V to paste<br>
 
 Task 2: Perform unattended installation of the Log Analytics agent<br>
-Step 4:  Paste cmdlet into Notepad or the PowerShell ISE, replace <WorkspaceID> with "WorkspaceID copied in previous step" and <PrimaryKey" with "PrimaryKey copied in previous step" ensure you keep the " at the beginning and the end of each paste- then copy and paste from Notepad or the PowerShell ISE into the Cloud Shell<br>
+Step 4:  Paste cmdlet into Notepad or the PowerShell ISE, replace '<WorkspaceID>' with "WorkspaceID copied in previous step" and '<PrimaryKey>' with "PrimaryKey copied in previous step" ensure you keep the " at the beginning and the end of each paste - then copy and paste from Notepad or the PowerShell ISE into the Cloud Shell<br>
 
 Task 2: Perform unattended installation of the Log Analytics agent<br>
 Step 2: Copy and paste each command separately and press enter after pasting each, It may take up to 5 minutes before the threat is detected <br>
