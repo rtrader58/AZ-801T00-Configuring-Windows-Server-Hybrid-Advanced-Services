@@ -22,6 +22,9 @@ Skip Steps 16 and 17 they are no longer options in the Azure Portal <br>
 
 ### Exercise 3: Provisioning Azure VMs running Windows Server
 
+Task 1: Start Azure Cloud Shell<br>
+Step 2: on the Getting Started window select your subscription in the dropdown box  Click Apply<br>
+
 Task 2: Deploy an Azure VM by using an Azure Resource Manager template<br>
 Step 3: Copy and Paste each cmdlet separately<br>
 
