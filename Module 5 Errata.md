@@ -22,7 +22,7 @@ Step 11: Click Delete address space<br>
 Task 2: Prepare protection of a Hyper-V virtual machine<br>
 Step 2: Select Enable Site Recover<br>
 Step 8:  Open the Group Policy Management console under Administrative Tools<br>
-Step 11: Open Powershell ISE
+Step 11: Open Powershell ISE <br>
 Step 23: If unable to resolve to connect click try again<br>
 
 Task 4: Review Azure VM replication settings<br>  
