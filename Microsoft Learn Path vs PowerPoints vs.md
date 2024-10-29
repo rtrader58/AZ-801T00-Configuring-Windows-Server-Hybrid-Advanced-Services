@@ -1,7 +1,7 @@
 # Microsoft Learn Path vs PowerPoints vs MS Learn Modules mappings
 
 ## Learning Path 1: Secure Windows Server on-premises and hybrid infrastructures (Windows Server security)
-### PowerPoint Deck 1 - Secure Windows Server on-Premis and Hybrid Infrastructures (Windows Server Security)
+### PowerPoint Deck 1 - Secure Windows Server on-Premise and Hybrid Infrastructures (Windows Server Security)
 
 Module 1: Secure Windows Server user accounts - https://learn.microsoft.com/en-us/training/modules/secure-windows-server-user-accounts/ <br>
 Module 2: Hardening Windows Server - https://learn.microsoft.com/en-us/training/modules/harden-windows-server/ <br>
