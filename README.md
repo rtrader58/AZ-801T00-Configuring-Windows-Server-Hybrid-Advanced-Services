@@ -1,6 +1,6 @@
 # AZ-801T00 Configuring Windows Server Hybrid Advanced Services
 ## This repository is provided to enhance the course
-## Updated 8/8/2023
+## Updated 2/24/2025
 
 This repository is maintained by Rick Trader<br>
 Interface Technical Training
