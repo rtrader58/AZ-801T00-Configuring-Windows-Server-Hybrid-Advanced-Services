@@ -17,7 +17,7 @@ Skip - Task 1: Enable Defender for Cloud and automatic agent installation<br>
 ### Exercise 3: Provisioning Azure VMs running Windows Server
 
 Task 2: Deploy an Azure VM by using an Azure Resource Manager template<br>
-Skip - Step 1: Resource group has already been created
+Skip - Step 1: Resource group has already been created <br>
 Step 6:  I used the Localadmin for user and password for the labuser account located in the Resources tab
 Skip step 11:
 
