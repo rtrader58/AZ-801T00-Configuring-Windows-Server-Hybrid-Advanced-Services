@@ -23,6 +23,7 @@ Module 11: Implement change tracking and file integrity monitoring for Windows I
 ### Lab 02 – Implementing Security Solutions in Hybrid Scenarios ~ Time 75 Min 
 
 ## Learning Path 2: Implement Windows Server high availability
+
 ### PowerPoint Deck 3 - Windows Server high availability​
 
 Module 1: Introduction to Cluster Shared Volumes - https://learn.microsoft.com/en-us/training/modules/introduction-to-cluster-shared-volumes/ <br>
@@ -34,6 +35,7 @@ Module 5: Implement scale and high availability with Windows Server VM - https:/
 ### Lab 03 – Implementing Failover Clustering ~ Time 60 Min
 
 ## Learning Path 3:  Implement disaster recovery in Windows Server on-premises and hybrid environments (Disaster recovery in Windows Server)
+
 ### PowerPoint Deck 4 - Implement disaster recovery in Windows Server on-premises and hybrid environments​ (Disaster recovery in Windows Server)​
 
 Module 6: Implement Hyper-V Replica - https://learn.microsoft.com/en-us/training/modules/implement-hyper-v-replica/ <br>
@@ -57,7 +59,7 @@ Module 1: Active Directory Domain Services migration - https://learn.microsoft.c
 Module 2: Migrate file server workloads using Storage Migration Service - https://learn.microsoft.com/en-us/training/modules/migrate-file-server-workloads-using-storage-migration-service/ <br>
 Module 3: Migrate Windows Server roles - https://learn.microsoft.com/en-us/training/modules/migrate-windows-server-roles/ <br>
 
-### Lab 06 – Upgrade and Migrate in Windows Server ~ Time 60 Min
+### Lab 06 – Upgrade and Migrate in Windows Server ~ Time 75 Min
 
 ## Learning Path 4:  Migrate servers and workloads in on-premises and hybrid environments (Implementing migration in hybrid scenarios)
 ### PowerPoint Deck 7 - Migrate servers and workloads in on-premises and hybrid environments​  (Implementing migration in hybrid scenarios)​​
@@ -66,7 +68,7 @@ Module 1: Migrate on-premises Windows Server instances to Azure IaaS virtual mac
 Module 2: Upgrade and migrate Windows Server IaaS virtual machines - https://learn.microsoft.com/en-us/training/modules/upgrade-migrate-windows-server-iaas-virtual-machines/ <br>
 Module 3: Containerize and migrate ASP.NET applications to Azure App Service - https://learn.microsoft.com/en-us/training/modules/migrate-aspnet-app-azure-app-service/ <br>
 
-### Lab 07 – Migrating Hyper-V VMs to Azure by using Azure Migrate​ ~ 120 Time Min
+### Lab 07 – Migrating Hyper-V VMs to Azure by using Azure Migrate​ ~ 150 Time Min
 
 ## Learning Path 5:  Monitor and troubleshoot Windows Server environments (Server and performance monitoring in Windows Server)
 ### PowerPoint Deck 8 - Monitor and troubleshoot Windows Server environment​ (Server and performance monitoring in Windows Server)​
