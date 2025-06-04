@@ -83,8 +83,8 @@ Module 4: Troubleshoot Active Directory - vhttps://learn.microsoft.com/en-us/tra
 ### PowerPoint Deck 9 - Monitor and troubleshoot Windows Server environment​  (Implementing operational monitoring in hybrid scenarios)​
 
 Module 1: Monitor Windows Server IaaS Virtual Machines and hybrid instances - https://learn.microsoft.com/en-us/training/modules/monitor-windows-server-iaas-virtual-machines-hybrid-instances/ <br>
-Module 2: Monitor the health of your Azure virtual machine by using Azure Metrics Explorer and metric alerts - https://learn.microsoft.com/en-us/training/modules/monitor-azure-vm-using-diagnostic-data/ <br> <br>
-Module 3: Monitor performance of virtual machines by using Azure Monitor VM Insights - https://learn.microsoft.com/en-us/training/modules/monitor-performance-using-azure-monitor-for-vms/
+Module 2: Monitor the health of your Azure virtual machine by using Azure Metrics Explorer and metric alerts - https://learn.microsoft.com/en-us/training/modules/monitor-azure-vm-using-diagnostic-data/ <br>
+Module 3: Monitor performance of virtual machines by using Azure Monitor VM Insights - https://learn.microsoft.com/en-us/training/modules/monitor-performance-using-azure-monitor-for-vms/ <br>
 Module 4: Troubleshoot on-premises and hybrid networking - https://learn.microsoft.com/en-us/training/modules/troubleshoot-premises-hybrid-networking/ <br>
 Module 5: Troubleshoot Windows Server Virtual Machines in Azure - https://learn.microsoft.com/en-us/training/modules/troubleshoot-windows-server-virtual-machines-azure/ <br>
 
