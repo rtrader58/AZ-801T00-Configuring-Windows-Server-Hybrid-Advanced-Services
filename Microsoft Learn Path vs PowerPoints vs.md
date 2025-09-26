@@ -16,9 +16,7 @@ Module 4: Secure Windows Server DNS - https://docs.microsoft.com/en-us/learn/mod
 Module 5: Implement Windows Server IaaS VM network security - https://learn.microsoft.com/en-us/training/modules/implement-windows-server-iaas-virtual-machine-network-security/ <br>
 Module 6: Audit the security of Windows Server IaaS Virtual Machines - https://learn.microsoft.com/en-us/training/modules/audit-security-of-windows-server-iaas-virtual-machines/ <br>
 Module 7: Manage Azure updates - https://learn.microsoft.com/en-us/training/modules/manage-azure-updates/ <br>
-Module 8: Create and implement application allowlists with adaptive application control - https://learn.microsoft.com/en-us/training/modules/create-implement-application-allowlists-adaptive-application-control/ <br>
-Module 9: Configure BitLocker disk encryption for Windows IaaS Virtual Machines - https://learn.microsoft.com/en-us/training/modules/configure-bitlocker-disk-encryption-windows-iaas-virtual-machines/ <br>
-Module 11: Implement change tracking and file integrity monitoring for Windows IaaS VMs - https://learn.microsoft.com/en-us/training/modules/implement-change-tracking-file-integrity-monitoring/ <br>
+Module 8: Configure BitLocker disk encryption for Windows IaaS Virtual Machines - https://learn.microsoft.com/en-us/training/modules/configure-bitlocker-disk-encryption-windows-iaas-virtual-machines/ <br>
 
 ### Lab 02 – Implementing Security Solutions in Hybrid Scenarios ~ Time 75 Min 
 
