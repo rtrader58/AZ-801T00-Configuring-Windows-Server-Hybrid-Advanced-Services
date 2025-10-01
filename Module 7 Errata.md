@@ -3,6 +3,7 @@
 If you run into issues pasting into the lab from the instructions - open and paste into the PowerShell ISE <br>
 If using PowerShell run the command in PowerShell ISE <br>
 If using the Azure Cloud Shell copy from the PowerShell ISE into the Cloud Shell <br>
+The work around steps to bypass the Bastion have been integrated into Exercise 1 Task 2 of the lab <br>
 
 ## Module 07 (CSS): Migrating Hyper-V VMs to Azure by using Azure Migrate
 
@@ -10,24 +11,28 @@ If using the Azure Cloud Shell copy from the PowerShell ISE into the Cloud Shell
 
 Task 1: Deploy an Azure VM by using an Azure Resource Manager QuickStart template<br>
 Step 4: Use East US for region<br>
-Step 5: The deployment took 25 minutes for me <br>
+Step 5: The deployment took ~25 minutes <br>
 
 Task 2: Provide remote access<br>
 Step 1: Does not paste into the lab browser - in a new lab browser tab type http://whatismyipaddress.com <br>
 Step 3: Select no storage account needed > select your subscription > select Apply <br>
-Step 4: Paste the last bash command into notepad and replace the WHATS-MY-IP-ADDRESS with the IP address obtained in step 1.  Then copy and paste into the cloudshell <br>
+Step 4: Paste the last bash command into notepad and replace the WHATS-MY-IP-ADDRESS with the IP address obtained in step 1 leave the /32.  Then copy and paste into the cloudshell <br>
 
 Task 3: Deploy a nested VM in the Azure VM<br>
+Step 3: Open the downloaded RDP file <br?
 Step 7: Follow the prompts to start Edge without data sync <br>
 Step 7: Use the following link to download the .vhd - https://info.microsoft.com/ww-landing-windows-server-2022.html <br>
-Step 7: Click VHD download, download will take ~8-10 minutes then copy will take ~5-8 minutes <br>
-Step 23: If prompted to log in with HLKAdminUser click cancel to log on with the Administrator account <br>
+Step 7: Click VHD download, download will take ~5-8 minutes then copy will take ~3-5 minutes <br>
 Step 24: Use PowerShell ISE not PowerShell<br>
 
 ### Exercise 2: Prepare for assessment and migration by using Azure Migrate
 
 Task 1: Configure Hyper-V environment<br>
 Step 4: N is only selected for the 2 prompts when asked that are identified in the lab instructions, all others are Y<br>
+
+Task 2: Create an Azure Migrate project<br>
+Skip Step 2 <br>
+
 
 ### Exercise 3: Assess Hyper-V for migration by using Azure Migrate
 
