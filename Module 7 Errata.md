@@ -13,7 +13,7 @@ Step 4: Use East US for region<br>
 Step 5: The deployment took 25 minutes for me <br>
 
 Task 2: Provide remote access<br>
-Step 1: Does not paste into the lab browser - in a new lab browser tab type whatismyipaddrss.com <br>
+Step 1: Does not paste into the lab browser - in a new lab browser tab type https://whatismyipaddrss.com <br>
 Step 3: Select no storage account needed > select your subscription > select Apply <br>
 Step 4: Paste the last bash command into notepad and replace the WHATS-MY-IP-ADDRESS with the IP address obtained in step 1.  Then copy and paste into the cloudshell <br>
 
