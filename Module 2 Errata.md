@@ -25,7 +25,7 @@ Skip step 11:
 
 Task 1: Install Azure Arc agents on an On-Premises Server<br>
 Step 10: Click on the Start menu and then right click on PowerShell ISE not PowerShell Prompt<br>
-Step 11 - 14:  Paste inside of the PowerShell Prompt area inside the IDE <br>
+Step 11 - 14:  Paste inside of the PowerShell Prompt area inside the ISE <br>
 
 ### Exercise 5: Verifying the hybrid capabilities of Microsoft Defender for Cloud and Azure Automation solutions
 
