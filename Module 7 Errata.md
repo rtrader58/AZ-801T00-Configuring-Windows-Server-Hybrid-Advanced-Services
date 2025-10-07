@@ -48,31 +48,51 @@ Step 6: You will not be prompted, once downloaded move the .ZIP file to F:VMs > 
 Step 10: Browse to the F:\VMs <br>
 Step 16: If the remane does not paste correctly - manually type it in <br>
 Step 17: In the settings of the Imported VM change the memory to 4096 <br> 
+Step 23: Be patient the Appliance Configuration Manager with launch <br>
 Step 24: This step will take a while. You cannot copy and paste from dirctly inside environment.  Copy the key from Notepad > in the menu of The VM click Clipboard > Type clipboard text <br>
-Step 24: You have to wait run auto update status multiple times to complete, each time you will need to click Verifying.  Refresh may take a few moments after you click it.  Before you will be able to logon. Logon and registering took ~10 minutes, if the page times out, refresh the page.<br>
-If after step 29: Start Discovery is not available, ensure the slider under step 3 is set to the left<br>
-Step 30: Wait for the discovery to finish ~15-20 minutes <br>
+Step 24: You have to wait the auto update status will run multiple times to complete click refresh when prompted, each time you will need to click Verifying.  Refresh may take a few moments after you click it.  Before you will be able to logon. Logon and registering took ~10 minutes, if the page times out, refresh the page.<br>
+Step 30: If after step 29: Start Discovery is not available, ensure the slider under step 3 is set to the left, wait for the discovery to finish ~15-20 minutes <br>
 
 Task 2: Configure, run, and view an assessment<br>
 Replace steps 1 - 10 with the following <br>
 Step 1: Expand Explore Inventory > Select All Inventory <br>
 Step 2: Select the VM you want to Migrate > Select Create assessment <br>
-Step 3: Basics Tab Use the name from step 6, select Review and create, Create <br>
+Step 3: Basics Tab Use the name from step 5, click next<br>
 Step 3: General Tab > configure the following: Region - East US, Default saving option - None, select Review and create, Create <br>
 Step 4: Expand Decide and plan > Assessments > select the newly created assessment az801l07a-assessment <br>
+Step 5: On the az801l07a-assessment page, review the information indicating Azure readiness and monthly cost estimate for both compute and storage <br>
+Skip to the next exercise <br>
 
 ### Exercise 4: Migrate Hyper-V VMs by using Azure Migrate
 
 Task 1: Prepare for migration of Hyper-V VMs <br>
-Replace Steps 1 - 2 with the following <br>
+Replace Steps 1 - 2 with the following step<br>
 Step 1: Expand Execute > Migration > Discover more <br>
-Step 13: Click Register before finishing <br>
 Step 14 - 16: Refresh the Discover page > click Finalize registration - Wait for registration to complete ~15 minutes - Close button will be available <br>
 
 Task 2: Configure replication of Hyper-V VMs <br>
+Before continueing with step 2 you need to assign RBAC permissions - Steps to Grant Permissions (RBAC) <br>
+Go to your Azure Storage account in the Azure portal <br>
+Select Access Control (IAM): In the left-hand menu, select Access Control (IAM) <br>
+Add Role Assignments: Click Privelged administrator roles
+Select the Contributor role <br>
+Click Members, select Managed identity, click + Select members, In the Dropdown Manage identitiy select Data Rreplication vault<br>
+Click Review and assign to complete the process <br>
+Repeate the steps to Add the Storage Blob Data Contributor role for Standard storage accounts or Storage Blob Data Owner for Premium storage accounts. 
+Assign the Identity: In the "Assign access to" step, select Managed identity <br>
+Select Managed Identity: Select the system-assigned managed identity for your Azure Recovery Services vault. 
+Review and Assign: Click Review and assign to complete the process
+
+Select Access Control (IAM): In the left-hand menu, select Access Control (IAM) <br>
+Click Job function roles
+Search for and select Storage Blob Data Contributor <br>
+Click Members, select Managed identity, click + Select members, In the Dropdown Manage identitiy select Data Rreplication vault<br>
+Click Review and assign to complete the process <br>
+
+Browse to Azure Migrate and select your project <br>
 Step 1: Expand Execute > Migrations > Replicate <br>
 Step 3: There is no Assessment Group <br>
-Step 10: Expand Execute > Migrations > Replication summary > Migration > Replications - click refresh > do not continue until the status shows protected <br>
+Step 9 / 10: Expand Execute > Migrations > Replication summary > Migration > Replications - click refresh > do not continue until the status shows protected > process took ~25 minutes<br>
 
 Task 3: Perform migration of Hyper-V VMs <br>
 Before continueing select Azure Home  <br>
