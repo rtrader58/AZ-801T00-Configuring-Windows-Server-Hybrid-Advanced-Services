@@ -1,11 +1,13 @@
 # AZ-801T00 Configuring Windows Server  Hybrid Advanced Service - Module 7 Errata
 
+## Module 07 (CSS): Migrating Hyper-V VMs to Azure by using Azure Migrate
+
+## Keep an eye on your time - I had to extend once to be able to finish the lab
+
 If you run into issues pasting into the lab from the instructions - open and paste into the PowerShell ISE <br>
 If using PowerShell run the command in PowerShell ISE <br>
 If using the Azure Cloud Shell copy from the PowerShell ISE into the Cloud Shell <br>
 The work around steps to bypass the Bastion have been integrated into Exercise 1 Task 2 of the lab <br>
-
-## Module 07 (CSS): Migrating Hyper-V VMs to Azure by using Azure Migrate
 
 ### Exercise 1: Prepare the lab environment
 
@@ -96,9 +98,16 @@ Step 9 / 10: Expand Execute > Migrations > Replication summary > Migration > Rep
 
 Task 3: Perform migration of Hyper-V VMs <br>
 Before continueing select Azure Home  <br>
-Step 1: Navigate Azure Migrate > Expand Execute > Migrations > Replication summary > Migration > Replications <br>
-Step 2: Click on ... select Test migration
-Step 3: Click Refresh to update status - wait for status 
+Step 1: Navigate Azure Migrate > Your Project > Expand Execute > Migrations > Replication summary > Migration > Replications <br>
+Step 2: Click on ... select Test migration <br>
+Step 3: Click Refresh to update status at any point you can move to step 4 <br>
+Step 4: Refresh the screen until you see the new VM move on to step 5 <br>
+Steps 5 - 8: Navigate Azure Migrate > Your Project > Expand Execute > Migrations > Replication summary > Migration > Replications > once the status changes to Cleanup test failover pending Click on ... select Test Migrate cleanup <br>
+Step 9: Skip <br>
+Step 10: Click on ... select Migrate <br>
+Step 12: Navigate Azure Migrate > Your Project > Expand Execute > Migrations > Replication summary > Migration > Replications <br>
+The migration is now complete, you can wait for the migration to finish (~45 Minutes) or move on to Task 4 <br>
+
 
 
 
