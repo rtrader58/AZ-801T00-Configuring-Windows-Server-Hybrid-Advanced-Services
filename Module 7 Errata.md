@@ -19,7 +19,7 @@ Step 3: Select no storage account needed > select your subscription > select App
 Step 4: Paste the last bash command into notepad and replace the WHATS-MY-IP-ADDRESS with the IP address obtained in step 1 leave the /32.  Then copy and paste into the cloudshell <br>
 
 Task 3: Deploy a nested VM in the Azure VM<br>
-Step 3: Open the downloaded RDP file <br>
+Step 3: Open the downloaded RDP file, you may get disconnected on your initial connection, if so let it auto reconnect <br>
 Step 7: Follow the prompts to start Edge without data sync <br>
 Step 7: Use the following link to download the .vhd - https://info.microsoft.com/ww-landing-windows-server-2022.html <br>
 Step 7: Click VHD download, download will take ~5-8 minutes then copy will take ~3-5 minutes <br>
