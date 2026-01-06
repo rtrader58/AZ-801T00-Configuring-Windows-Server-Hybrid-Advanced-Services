@@ -7,7 +7,7 @@ Lab Environment – https://interfacett.learnondemand.net <br>
 Exam discount - https://www.interfacett.com/microsoft-certification-exams/ <br>
 Exam objectives - https://docs.microsoft.com/en-us/learn/certifications/exams/az-801 <br>
 Exam objectives – Microsoft Certified : Windows Server Hybrid Administrator Associate - https://docs.microsoft.com/en-us/learn/certifications/windows-server-hybrid-administrator/<br>
-AZ-801 Study Guide - https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWKPgH<br>
+AZ-801 Study Guide - https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-801
 Windows Server Documentation - https://docs.microsoft.com/en-us/windows-server/ <br>
 Azure Documentation - https://docs.microsoft.com/en-us/azure/  <br>
 Azure Platform Forum - https://social.msdn.microsoft.com/Forums/enUS/home?category=windowsazureplatform <br>
