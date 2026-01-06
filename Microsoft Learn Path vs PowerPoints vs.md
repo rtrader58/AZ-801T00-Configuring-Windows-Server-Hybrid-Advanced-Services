@@ -6,7 +6,6 @@
 Module 1: Secure Windows Server user accounts - https://learn.microsoft.com/en-us/training/modules/secure-windows-server-user-accounts/ <br>
 Module 2: Hardening Windows Server - https://learn.microsoft.com/en-us/training/modules/harden-windows-server/ <br>
 Module 3: Windows Server Update Management - https://learn.microsoft.com/en-us/training/modules/windows-server-update-management/ <br>
-Module 4: Secure Windows Server DNS - https://docs.microsoft.com/en-us/learn/modules/secure-windows-server-domain-name-system/ <br>
 
 ### Lab 01: Configuring Security in Windows Server​ ~ Time 40 Min
 
