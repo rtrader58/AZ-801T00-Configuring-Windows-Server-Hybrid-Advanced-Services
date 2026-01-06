@@ -1,5 +1,7 @@
 # Microsoft Learn Path vs PowerPoints vs MS Learn Modules mappings
 
+## Configure Windows Server Hybrid Advanced Services Collection - https://learn.microsoft.com/en-us/training/courses/az-801t00?WT.mc_id=ilt_partner_webpage_wwl&ocid=506615#study-guide
+
 ## Learning Path 1: Secure Windows Server on-premises and hybrid infrastructures (Windows Server security)
 ### PowerPoint Deck 1 - Secure Windows Server on-Premise and Hybrid Infrastructures (Windows Server Security)
 
