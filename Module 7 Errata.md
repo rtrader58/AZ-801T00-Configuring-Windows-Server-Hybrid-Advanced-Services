@@ -90,19 +90,12 @@ Click Members, select Managed identity, click + Select members, In the Dropdown 
 Click Review and assign to complete the process <br>
 
 Browse to Azure Migrate and select your project <br>
-Step 1: Expand Execute > Migrations > Replicate <br>
-Step 3: There is no Assessment Group <br>
-Step 9 / 10: Expand Execute > Migrations > Replication summary > Migration > Replications - click refresh > do not continue until the status shows protected > process took ~25 minutes<br>
+
+Step 12: Click refresh > do not continue until the status shows protected > process took ~25 minutes<br>
 
 Task 3: Perform migration of Hyper-V VMs <br>
-Before continueing select Azure Home  <br>
 Step 1: Navigate Azure Migrate > Your Project > Expand Execute > Migrations > Replication summary > Migration > Replications <br>
-Step 2: Click on ... select Test migration <br>
-Step 3: Click Refresh to update status at any point you can move to step 4 <br>
-Step 4: Refresh the screen until you see the new VM move on to step 5 <br>
-Steps 5 - 8: Navigate Azure Migrate > Your Project > Expand Execute > Migrations > Replication summary > Migration > Replications > once the status changes to Cleanup test failover pending Click on ... select Test Migrate cleanup <br>
-Step 9: Skip <br>
-Step 10: Click on ... select Migrate <br>
+Step 5: Navigate Azure Migrate > Your Project > Expand Execute > Migrations > Replication summary > Migration > Replications <br>
 Step 12: Navigate Azure Migrate > Your Project > Expand Execute > Migrations > Replication summary > Migration > Replications <br>
 The migration is now complete, you can wait for the migration to finish (~45 Minutes) or move on to Task 4 <br>
 
