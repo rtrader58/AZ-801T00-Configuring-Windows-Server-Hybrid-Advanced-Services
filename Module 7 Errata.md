@@ -37,18 +37,18 @@ Skip step 2 <br>
 Step 3: In the bottom center of the screen select Create Project
 
 Task 3: Implement the target Azure environment<br>
-Step 19: When creating the storage account allow anonymous access on the Advanced tab<br>
+Step 19: When creating the storage account on the the Advanced tab, allow enabling anonymous access on individual containers <br>
 
 ### Exercise 3: Assess Hyper-V for migration by using Azure Migrate
 
 Task 1: Deploy and configure the Azure Migrate appliance<br>
-Before starting the Task open Notepad in the RDP session copy<br>
+Before starting the Task open Notepad in the RDP session<br>
 Step 2: Select All Projects > select az801lab07a-migrate-project <br>
 Step 3: Select Start discovery > Using Appliance > for Azure <br>
 Step 5: Copy and paste the key in notepad in the RDP session<br>
-Step 6: You will not be prompted, once downloaded move the .ZIP file to F:VMs > then extract<br>
-Step 10: Browse to the F:\VMs <br>
-Step 16: If the remane does not paste correctly - manually type it in <br>
+Step 6 and 7: You will not be prompted, once downloaded move the .ZIP file to F:VMs > then extract<br>
+Step 10: Browse to the F:\VMs\AzureMigrateAppliance\AzureMigrateAppliance_v25.25.09.11 <br>
+Step 16: If the remane does not paste correctly - manually type it az801107a-vma1<br>
 Step 17: In the settings of the Imported VM change the memory to 4096 <br> 
 Step 23: Be patient the Appliance Configuration Manager with launch <br>
 Step 24: This step will take a while. You cannot copy and paste from dirctly inside environment.  Copy the key from Notepad > in the menu of The VM click Clipboard > Type clipboard text <br>
@@ -56,20 +56,18 @@ Step 24: You have to wait the auto update status will run multiple times to comp
 Step 30: If after step 29: Start Discovery is not available, ensure the slider under step 3 is set to the left, wait for the discovery to finish ~15-20 minutes <br>
 
 Task 2: Configure, run, and view an assessment<br>
-Replace steps 1 - 10 with the following <br>
+Replace steps 1 - 8 with the following <br>
 Step 1: Expand Explore Inventory > Select All Inventory <br>
-Step 2: Select the VM you want to Migrate > Select Create assessment <br>
-Step 3: Basics Tab Use the name from step 5, click next<br>
-Step 3: General Tab > configure the following: Region - East US, Default saving option - None, select Review and create, Create <br>
+Step 2: Select the VM you want to Migrate, az801107a-vm1 > Select Create assessment <br>
+Step 3: Basics Tab Use the name from step original step 3, click next<br>
+Step 3: General Tab > configure the following: Region - East US, Default saving option - None, Sizing criteria - As on-premises, select Review and create, Create <br>
 Step 4: Expand Decide and plan > Assessments > select the newly created assessment az801l07a-assessment <br>
-Step 5: On the az801l07a-assessment page, review the information indicating Azure readiness and monthly cost estimate for both compute and storage <br>
+Step 5: Click on Decide and plan, Assesssment, az801l07a-assessment , review the information indicating Azure readiness and monthly cost estimate for both compute and storage <br>
 Skip to the next exercise <br>
 
 ### Exercise 4: Migrate Hyper-V VMs by using Azure Migrate
 
 Task 1: Prepare for migration of Hyper-V VMs <br>
-Replace Steps 1 - 2 with the following step<br>
-Step 1: Expand Execute > Migration > Discover more <br>
 Step 14 - 16: Refresh the Discover page > click Finalize registration - Wait for registration to complete ~15 minutes - Close button will be available <br>
 
 Task 2: Configure replication of Hyper-V VMs <br>
@@ -88,7 +86,7 @@ Review and Assign: Click Review and assign to complete the process
 Select Access Control (IAM): In the left-hand menu, select Access Control (IAM) <br>
 Click Job function roles
 Search for and select Storage Blob Data Contributor <br>
-Click Members, select Managed identity, click + Select members, In the Dropdown Manage identitiy select Data Rreplication vault<br>
+Click Members, select Managed identity, click + Select members, In the Dropdown Manage identitiy select Data Replication vault<br>
 Click Review and assign to complete the process <br>
 
 Browse to Azure Migrate and select your project <br>
