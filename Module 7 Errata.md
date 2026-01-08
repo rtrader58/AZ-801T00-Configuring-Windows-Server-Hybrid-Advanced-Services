@@ -2,7 +2,7 @@
 
 ## Module 07 (CSS): Migrating Hyper-V VMs to Azure by using Azure Migrate
 
-## Keep an eye on your time - I had to extend twice to be able to finish the lab
+## Keep an eye on your time - you may have to extend twice to be able to finish the lab
 
 If you run into issues pasting into the lab from the instructions - open and paste into the PowerShell ISE <br>
 If using PowerShell run the command in PowerShell ISE <br>
