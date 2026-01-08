@@ -18,7 +18,7 @@ Step 5: The deployment took ~25 minutes <br>
 Task 2: Provide remote access<br>
 Step 1: Does not paste into the lab browser - in a new lab browser tab type http://whatismyipaddress.com <br>
 Step 3: Select no storage account needed > select your subscription > select Apply <br>
-Step 4: Paste the last bash command into notepad and replace the WHATS-MY-IP-ADDRESS with the IP address obtained in step 1 leave the /32.  Then copy and paste into the cloudshell <br>
+Step 4: Paste the last bash command into notepad and replace the WHATS-MY-IP-ADDRESS with the IP address obtained in step 1 leave the /32.  Remove the leading spaces in each line. Then copy and paste into the cloudshell <br>
 
 Task 3: Deploy a nested VM in the Azure VM<br>
 Step 3: Open the downloaded RDP file, you may get disconnected on your initial connection, if so let it auto reconnect <br>
